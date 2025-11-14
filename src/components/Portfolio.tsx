@@ -21,7 +21,7 @@ export default function Portfolio() {
       subtitle: 'Find Your Dream Car',
       description: 'A dynamic car dealership platform with vehicle listings and filters.',
       screenshot: 'https://images.unsplash.com/photo-1567818735868-e71b99932e29?w=500&h=300&fit=crop',
-      tags: ['React', 'Database', 'API'],
+      tags: ['React', 'Database', 'API', 'WordPress'],
       link: 'https://autohire.ng/',
     },
   ];
